@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.8
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ggRevitDynamoIFC", "ggRevitDynamoIFC\ggRevitDynamoIFC.csproj", "{4D934A8E-E32E-4258-BB3A-6DBAE2657CB7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ggRevitDynamoIFC2017", "ggRevitDynamo2017\ggRevitDynamoIFC2017.csproj", "{258A45D8-6B25-4A5F-A330-0436A778E4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ggRevitDynamoIFC2016", "ggRevitDynamo2016\ggRevitDynamoIFC2016.csproj", "{33979FA5-126C-45AA-9A34-3DAF2EA2BCFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{258A45D8-6B25-4A5F-A330-0436A778E4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258A45D8-6B25-4A5F-A330-0436A778E4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258A45D8-6B25-4A5F-A330-0436A778E4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056CED44-ADC7-4DCC-BF16-29B58C19153A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056CED44-ADC7-4DCC-BF16-29B58C19153A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056CED44-ADC7-4DCC-BF16-29B58C19153A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056CED44-ADC7-4DCC-BF16-29B58C19153A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33979FA5-126C-45AA-9A34-3DAF2EA2BCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33979FA5-126C-45AA-9A34-3DAF2EA2BCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33979FA5-126C-45AA-9A34-3DAF2EA2BCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33979FA5-126C-45AA-9A34-3DAF2EA2BCFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
